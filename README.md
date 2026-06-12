@@ -121,27 +121,27 @@ Untuk mengatasi permasalahan tersebut, diperlukan sebuah sistem informasi yang m
 
 ### Use Case Diagram
 
-![Use Case Diagram](UseCase/UseCase.png)
+![Use Case Diagram](UseCase/UseCase.jpeg)
 
 ### Activity Diagram
 
-![Activity Diagram](Activity/Activity-Adopsi.png)
+![Activity Diagram](Activity/Activity-Adopsi.jpeg)
 
 ### DFD Level 0
 
-![DFD Level 0](DFD/DFD-Level-0.png)
+![DFD Level 0](DFD/DFD-Level-0.jpeg)
 
 ### DFD Level 1
 
-![DFD Level 1](DFD/DFD-Level-1.png)
+![DFD Level 1](DFD/DFD-Level-1.jpeg)
 
 ### ERD
 
-![ERD](ERD/ERD-Adopsi-Hewan.png)
+![ERD](ERD/ERD-Adopsi-Hewan.jpeg)
 
 ### Sequence Diagram
 
-![Sequence Diagram](Sequence/Sequence-Adopsi.png)
+![Sequence Diagram](Sequence/Sequence-Adopsi.jpeg)
 
 ## Struktur Aktor dan Hak Akses
 
